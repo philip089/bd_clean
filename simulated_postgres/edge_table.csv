@@ -1,0 +1,501 @@
+,weight,source,destination
+0,32,Fussball,DFB
+1,29,Fußball,DFB
+2,25,RTL+,RTL Plus
+3,25,RTL,Lukas Podolski
+4,25,RTL,RTL+
+5,25,RTL,RTL +
+6,25,RTL,RTL Plus
+7,25,RTL+,RTL +
+8,24,Soccer,DFB
+9,24,Football,DFB
+10,22,Fussball,Deutschland
+11,22,Fußball,Bundesliga
+12,20,papaplatte highlights,papaplatte best of stream
+13,20,papaplatte highlights,papaplatte realtalk
+14,20,papaplatte best of stream,papaplatte realtalk
+15,20,Fussball,Soccer
+16,20,Fussball,Football
+17,20,Fußball,Highlights
+18,20,Soccer,Deutschland
+19,20,Football,Deutschland
+20,19,Fußball,Soccer
+21,19,Fußball,Football
+22,19,Fußball,Nationalmannschaft
+23,19,Soccer,Nationalmannschaft
+24,19,Football,Nationalmannschaft
+25,18,Sport,Highlights
+26,17,Fussball,Bundesliga
+27,16,Champions League,UEFA Champions League
+28,15,RTL,TVNOW
+29,15,RTL,RTLplus
+30,15,Race Day,Bundestrainer
+31,15,RTL,NITRO
+32,15,FIFA,Pokal
+33,15,RTL,Conference League
+34,15,Das deutsche Finale,Eurovision Song Contest
+35,15,RTL,Europa League
+36,15,ESC,ESC 2024
+37,15,RTL,Pokal
+38,15,ESC,Eurovision Song Contest
+39,15,RTL,Qualifikation
+40,15,ESC 2024,Eurovision
+41,15,RTL,Anna Kraft
+42,15,ESC 2024,Vorentscheid
+43,15,RTL,Laura Papendick
+44,15,Eurovision,Vorentscheid
+45,15,RTL,Thomas Wagner
+46,15,Eurovision Song Contest,Vorentscheid
+47,15,RTL,Matchday
+48,15,papaplatte,papaplatte clips
+49,15,RTL,DAZN
+50,15,FIFA,Tore
+51,15,RTL,Prime
+52,15,FIFA,Highlights
+53,15,RTL,Nations
+54,15,FIFA,1. FC Union Berlin
+55,15,RTL,Nationalelf
+56,15,FIFA,SC Freiburg
+57,15,RTL,Deutschland
+58,15,FIFA,1. FC Köln
+59,15,RTL,Nationalmannschaft
+60,15,FIFA,UEFA Europa League
+61,15,RTL,Hansi Flick
+62,15,FIFA,UEL
+63,15,RTL,Flick
+64,15,FIFA,UECL
+65,15,RTL,Kader
+66,15,FIFA,UEFA Europa Conference League
+67,15,RTL,Bundestrainer
+68,15,Fussball,Fußball
+69,15,RTL,DFB
+70,15,papaplatte highlights,papaplatte musik
+71,15,RTL,DFB-Elf
+72,15,papaplatte highlights,papaplatte freundin
+73,15,RTL,Tore
+74,15,papaplatte best of stream,papaplatte gaming
+75,15,RTL,Highlights
+76,15,papaplatte best of stream,Twitch
+77,15,RTL,1. FC Union Berlin
+78,15,papaplatte best of stream,papaplatte rap
+79,15,RTL,SC Freiburg
+80,15,papaplatte donation,papaplatte gaming
+81,15,RTL,1. FC Köln
+82,15,papaplatte donation,papaplatte bastighg
+83,15,RTL,UEFA Europa League
+84,15,papaplatte donation,papaplatte musik
+85,15,RTL,UEL
+86,15,papaplatte donation,papaplatte freundin
+87,15,RTL,UECL
+88,15,papaplatte gaming,papaplatte bastighg
+89,15,RTL,UEFA Europa Conference League
+90,15,papaplatte gaming,papaplatte musik
+91,15,TVNOW,RTL+
+92,15,papaplatte gaming,papaplatte freundin
+93,15,TVNOW,RTLplus
+94,15,papaplatte realtalk,Twitch
+95,15,TVNOW,RTL Plus
+96,15,papaplatte realtalk,papaplatte rap
+97,15,TVNOW,NITRO
+98,15,papaplatte bastighg,Twitch
+99,15,TVNOW,Conference League
+100,15,papaplatte bastighg,papaplatte rap
+101,15,TVNOW,Europa League
+102,15,Twitch,papaplatte musik
+103,15,TVNOW,Pokal
+104,15,Twitch,papaplatte freundin
+105,15,TVNOW,Qualifikation
+106,15,papaplatte musik,papaplatte freundin
+107,15,TVNOW,Anna Kraft
+108,15,TVNOW,Laura Papendick
+109,15,TVNOW,Thomas Wagner
+110,15,UEFA,RTL Sport
+111,15,TVNOW,Matchday
+112,15,UEFA,Fussball
+113,15,TVNOW,RTL +
+114,15,UEFA,Soccer
+115,15,TVNOW,DAZN
+116,15,UEFA,Formel 1
+117,15,TVNOW,Prime
+118,15,UEFA,RTL
+119,15,TVNOW,Lukas Podolski
+120,15,UEFA,RTL+
+121,15,TVNOW,Nations
+122,15,UEFA,RTL Plus
+123,15,TVNOW,Nationalelf
+124,15,UEFA,Conference League
+125,15,TVNOW,Deutschland
+126,15,UEFA,Pokal
+127,15,TVNOW,Nationalmannschaft
+128,15,UEFA,Anna Kraft
+129,15,TVNOW,Hansi Flick
+130,15,UEFA,Thomas Wagner
+131,15,TVNOW,Flick
+132,15,UEFA,RTL +
+133,15,TVNOW,Kader
+134,15,UEFA,Prime
+135,15,TVNOW,Bundestrainer
+136,15,UEFA,Nations
+137,15,TVNOW,DFB
+138,15,UEFA,Deutschland
+139,15,TVNOW,DFB-Elf
+140,15,UEFA,Hansi Flick
+141,15,TVNOW,Tore
+142,15,UEFA,Kader
+143,15,TVNOW,Highlights
+144,15,UEFA,DFB
+145,15,TVNOW,1. FC Union Berlin
+146,15,UEFA,Tore
+147,15,TVNOW,SC Freiburg
+148,15,UEFA,1. FC Union Berlin
+149,15,TVNOW,1. FC Köln
+150,15,UEFA,1. FC Köln
+151,15,TVNOW,UEFA Europa League
+152,15,UEFA,UEL
+153,15,TVNOW,UEL
+154,15,UEFA,UEFA Europa Conference League
+155,15,TVNOW,UECL
+156,15,Sport,FIFA
+157,15,TVNOW,UEFA Europa Conference League
+158,15,Sport,Fußball
+159,15,RTL+,RTLplus
+160,15,Sport,Football
+161,15,RTL+,NITRO
+162,15,Sport,Race Day
+163,15,RTL+,Conference League
+164,15,Sport,TVNOW
+165,15,RTL+,Europa League
+166,15,Sport,RTLplus
+167,15,RTL+,Pokal
+168,15,Sport,NITRO
+169,15,RTL+,Qualifikation
+170,15,Sport,Europa League
+171,15,RTL+,Anna Kraft
+172,15,Sport,Qualifikation
+173,15,RTL+,Laura Papendick
+174,15,Sport,Laura Papendick
+175,15,RTL+,Thomas Wagner
+176,15,Sport,Matchday
+177,15,RTL+,Matchday
+178,15,Sport,DAZN
+179,15,RTL+,DAZN
+180,15,Sport,Lukas Podolski
+181,15,RTL+,Prime
+182,15,Sport,Nationalelf
+183,15,RTL+,Lukas Podolski
+184,15,Sport,Nationalmannschaft
+185,15,RTL+,Nations
+186,15,Sport,Flick
+187,15,RTL+,Nationalelf
+188,15,Sport,Bundestrainer
+189,15,RTL+,Deutschland
+190,15,Sport,DFB-Elf
+191,15,RTL+,Nationalmannschaft
+192,15,Race Day,Kader
+193,15,RTL+,Hansi Flick
+194,15,Sport,SC Freiburg
+195,15,RTL+,Flick
+196,15,Sport,UEFA Europa League
+197,15,RTL+,Kader
+198,15,Sport,UECL
+199,15,RTL+,Bundestrainer
+200,15,RTL Sport,FIFA
+201,15,RTL+,DFB
+202,15,RTL Sport,Fußball
+203,15,RTL+,DFB-Elf
+204,15,RTL Sport,Football
+205,15,RTL+,Tore
+206,15,RTL Sport,Race Day
+207,15,RTL+,Highlights
+208,15,RTL Sport,TVNOW
+209,15,RTL+,1. FC Union Berlin
+210,15,RTL Sport,RTLplus
+211,15,RTL+,SC Freiburg
+212,15,RTL Sport,NITRO
+213,15,RTL+,1. FC Köln
+214,15,RTL Sport,Europa League
+215,15,RTL+,UEFA Europa League
+216,15,RTL Sport,Qualifikation
+217,15,RTL+,UEL
+218,15,RTL Sport,Laura Papendick
+219,15,RTL+,UECL
+220,15,RTL Sport,Matchday
+221,15,RTL+,UEFA Europa Conference League
+222,15,RTL Sport,DAZN
+223,15,RTLplus,RTL Plus
+224,15,RTL Sport,Lukas Podolski
+225,15,RTLplus,NITRO
+226,15,RTL Sport,Nationalelf
+227,15,RTLplus,Conference League
+228,15,RTL Sport,Nationalmannschaft
+229,15,RTLplus,Europa League
+230,15,RTL Sport,Flick
+231,15,RTLplus,Pokal
+232,15,RTL Sport,Bundestrainer
+233,15,RTLplus,Qualifikation
+234,15,RTL Sport,DFB-Elf
+235,15,RTLplus,Anna Kraft
+236,15,RTL Sport,Highlights
+237,15,RTLplus,Laura Papendick
+238,15,RTL Sport,SC Freiburg
+239,15,RTLplus,Thomas Wagner
+240,15,RTL Sport,UEFA Europa League
+241,15,RTLplus,Matchday
+242,15,RTL Sport,UECL
+243,15,RTLplus,RTL +
+244,15,FIFA,Fussball
+245,15,RTLplus,DAZN
+246,15,FIFA,Soccer
+247,15,RTLplus,Prime
+248,15,FIFA,Formel 1
+249,15,RTLplus,Lukas Podolski
+250,15,FIFA,RTL
+251,15,RTLplus,Nations
+252,15,FIFA,RTL+
+253,15,RTLplus,Nationalelf
+254,15,FIFA,RTL Plus
+255,15,RTLplus,Deutschland
+256,15,FIFA,Conference League
+257,15,RTLplus,Nationalmannschaft
+258,15,Race Day,Flick
+259,15,RTLplus,Hansi Flick
+260,15,FIFA,Anna Kraft
+261,15,RTLplus,Flick
+262,15,FIFA,Thomas Wagner
+263,15,RTLplus,Kader
+264,15,FIFA,RTL +
+265,15,RTLplus,Bundestrainer
+266,15,FIFA,Prime
+267,15,RTLplus,DFB
+268,15,FIFA,Nations
+269,15,RTLplus,DFB-Elf
+270,15,Das deutsche Finale,Eurovision
+271,15,RTLplus,Tore
+272,15,ESC,Eurovision
+273,15,RTLplus,Highlights
+274,15,ESC 2024,Eurovision Song Contest
+275,15,RTLplus,1. FC Union Berlin
+276,15,papaplatte,papaplatte highlights
+277,15,RTLplus,SC Freiburg
+278,15,papaplatte,papaplatte realtalk
+279,15,RTLplus,1. FC Köln
+280,15,papaplatte,papaplatte rap
+281,15,RTLplus,UEFA Europa League
+282,15,papaplatte clips,papaplatte donation
+283,15,RTLplus,UEL
+284,15,papaplatte clips,Twitch
+285,15,RTLplus,UECL
+286,15,papaplatte highlights,papaplatte donation
+287,15,RTLplus,UEFA Europa Conference League
+288,15,papaplatte highlights,Twitch
+289,15,RTL Plus,NITRO
+290,15,Fussball,Race Day
+291,15,RTL Plus,Conference League
+292,15,Fussball,TVNOW
+293,15,RTL Plus,Europa League
+294,15,Fussball,RTLplus
+295,15,RTL Plus,Pokal
+296,15,Fussball,NITRO
+297,15,RTL Plus,Qualifikation
+298,15,Fussball,Europa League
+299,15,RTL Plus,Anna Kraft
+300,15,Fussball,Qualifikation
+301,15,RTL Plus,Laura Papendick
+302,15,Fussball,Laura Papendick
+303,15,RTL Plus,Thomas Wagner
+304,15,Fussball,Matchday
+305,15,RTL Plus,Matchday
+306,15,Fussball,DAZN
+307,15,RTL Plus,RTL +
+308,15,Fussball,Lukas Podolski
+309,15,RTL Plus,DAZN
+310,15,Fussball,Nationalelf
+311,15,RTL Plus,Prime
+312,15,Fussball,Hansi Flick
+313,15,RTL Plus,Lukas Podolski
+314,15,Fussball,Kader
+315,15,RTL Plus,Nations
+316,15,Fussball,DFB-Elf
+317,15,RTL Plus,Nationalelf
+318,15,Fussball,Highlights
+319,15,RTL Plus,Deutschland
+320,15,Fussball,SC Freiburg
+321,15,RTL Plus,Nationalmannschaft
+322,15,Fussball,UEFA Europa League
+323,15,RTL Plus,Hansi Flick
+324,15,Fussball,UECL
+325,15,RTL Plus,Flick
+326,15,Fußball,Formel 1
+327,15,RTL Plus,Kader
+328,15,Fußball,RTL
+329,15,RTL Plus,Bundestrainer
+330,15,Fußball,RTL+
+331,15,RTL Plus,DFB
+332,15,Fußball,RTL Plus
+333,15,RTL Plus,DFB-Elf
+334,15,Fußball,Conference League
+335,15,RTL Plus,Tore
+336,15,Fußball,Pokal
+337,15,RTL Plus,Highlights
+338,15,Fußball,Anna Kraft
+339,15,RTL Plus,1. FC Union Berlin
+340,15,Fußball,Thomas Wagner
+341,15,RTL Plus,SC Freiburg
+342,15,Fußball,RTL +
+343,15,RTL Plus,1. FC Köln
+344,15,Fußball,Prime
+345,15,RTL Plus,UEFA Europa League
+346,15,Fußball,Nations
+347,15,RTL Plus,UEL
+348,15,Fußball,Deutschland
+349,15,RTL Plus,UECL
+350,15,Fußball,Flick
+351,15,RTL Plus,UEFA Europa Conference League
+352,15,Fußball,Bundestrainer
+353,15,NITRO,Conference League
+354,15,Fußball,Tore
+355,15,NITRO,Europa League
+356,15,Fußball,1. FC Union Berlin
+357,15,NITRO,Pokal
+358,15,Fußball,1. FC Köln
+359,15,NITRO,Qualifikation
+360,15,Fußball,UEL
+361,15,NITRO,Anna Kraft
+362,15,Fußball,UEFA Europa Conference League
+363,15,NITRO,Laura Papendick
+364,15,Soccer,Formel 1
+365,15,NITRO,Thomas Wagner
+366,15,Soccer,RTL
+367,15,NITRO,Matchday
+368,15,Soccer,RTL+
+369,15,NITRO,RTL +
+370,15,Soccer,RTL Plus
+371,15,NITRO,DAZN
+372,15,Soccer,Conference League
+373,15,NITRO,Prime
+374,15,Soccer,Pokal
+375,15,NITRO,Lukas Podolski
+376,15,Soccer,Anna Kraft
+377,15,NITRO,Nations
+378,15,Soccer,Thomas Wagner
+379,15,NITRO,Nationalelf
+380,15,Soccer,RTL +
+381,15,NITRO,Deutschland
+382,15,Soccer,Prime
+383,15,NITRO,Nationalmannschaft
+384,15,Soccer,Nations
+385,15,NITRO,Hansi Flick
+386,15,DDF,ESC
+387,15,NITRO,Flick
+388,15,Soccer,Hansi Flick
+389,15,NITRO,Kader
+390,15,Soccer,Kader
+391,15,NITRO,Bundestrainer
+392,15,DDF,Eurovision
+393,15,NITRO,DFB
+394,15,Soccer,Tore
+395,15,NITRO,DFB-Elf
+396,15,Soccer,1. FC Union Berlin
+397,15,NITRO,Tore
+398,15,Soccer,1. FC Köln
+399,15,NITRO,Highlights
+400,15,Soccer,UEL
+401,15,NITRO,1. FC Union Berlin
+402,15,Soccer,UEFA Europa Conference League
+403,15,NITRO,SC Freiburg
+404,15,Football,Race Day
+405,15,NITRO,1. FC Köln
+406,15,Football,TVNOW
+407,15,NITRO,UEFA Europa League
+408,15,Football,RTLplus
+409,15,NITRO,UEL
+410,15,Football,NITRO
+411,15,NITRO,UECL
+412,15,Football,Europa League
+413,15,NITRO,UEFA Europa Conference League
+414,15,Football,Qualifikation
+415,15,Conference League,Europa League
+416,15,Football,Laura Papendick
+417,15,Conference League,Pokal
+418,15,Football,Matchday
+419,15,Conference League,Qualifikation
+420,15,Football,DAZN
+421,15,Conference League,Anna Kraft
+422,15,Football,Lukas Podolski
+423,15,Conference League,Laura Papendick
+424,15,Football,Nationalelf
+425,15,Conference League,Thomas Wagner
+426,15,DDF,Vorentscheid
+427,15,Conference League,Matchday
+428,15,Football,Flick
+429,15,Conference League,RTL +
+430,15,Football,Bundestrainer
+431,15,Conference League,DAZN
+432,15,Football,DFB-Elf
+433,15,Conference League,Prime
+434,15,Football,Highlights
+435,15,Conference League,Lukas Podolski
+436,15,Football,SC Freiburg
+437,15,Conference League,Nations
+438,15,Football,UEFA Europa League
+439,15,Conference League,Nationalelf
+440,15,Football,UECL
+441,15,Conference League,Deutschland
+442,15,Formel 1,Race Day
+443,15,Conference League,Nationalmannschaft
+444,15,Formel 1,TVNOW
+445,15,Conference League,Hansi Flick
+446,15,Formel 1,RTLplus
+447,15,Conference League,Flick
+448,15,Formel 1,NITRO
+449,15,Conference League,Kader
+450,15,Formel 1,Europa League
+451,15,Conference League,Bundestrainer
+452,15,Formel 1,Qualifikation
+453,15,Conference League,DFB
+454,15,Formel 1,Laura Papendick
+455,15,Conference League,DFB-Elf
+456,15,Formel 1,Matchday
+457,15,Conference League,Tore
+458,15,Formel 1,DAZN
+459,15,Conference League,Highlights
+460,15,Formel 1,Lukas Podolski
+461,15,Conference League,1. FC Union Berlin
+462,15,Formel 1,Nationalelf
+463,15,Conference League,SC Freiburg
+464,15,Formel 1,Nationalmannschaft
+465,15,Conference League,1. FC Köln
+466,15,Formel 1,Flick
+467,15,Conference League,UEFA Europa League
+468,15,Formel 1,Bundestrainer
+469,15,Conference League,UEL
+470,15,Formel 1,DFB-Elf
+471,15,Conference League,UECL
+472,15,Formel 1,Highlights
+473,15,Conference League,UEFA Europa Conference League
+474,15,Formel 1,SC Freiburg
+475,15,Europa League,Pokal
+476,15,Formel 1,UEFA Europa League
+477,15,Europa League,Qualifikation
+478,15,Formel 1,UECL
+479,15,Europa League,Anna Kraft
+480,15,Race Day,RTL
+481,15,Europa League,Laura Papendick
+482,15,Race Day,RTL+
+483,15,Europa League,Thomas Wagner
+484,15,Race Day,RTL Plus
+485,15,Europa League,Matchday
+486,15,Race Day,Conference League
+487,15,Europa League,RTL +
+488,15,Race Day,Pokal
+489,15,Europa League,DAZN
+490,15,Race Day,Anna Kraft
+491,15,Europa League,Prime
+492,15,Race Day,Thomas Wagner
+493,15,Europa League,Lukas Podolski
+494,15,Race Day,RTL +
+495,15,Europa League,Nations
+496,15,Race Day,Prime
+497,15,Europa League,Nationalelf
+498,15,Race Day,Nations
+499,15,Europa League,Deutschland
