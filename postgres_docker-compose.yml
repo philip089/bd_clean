@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres
+    environment:
+      POSTGRES_DB: yt_database
+      POSTGRES_USER: bigdata
+      POSTGRES_PASSWORD: bigdata
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./SQLscripts:/docker-entrypoint-initdb.d

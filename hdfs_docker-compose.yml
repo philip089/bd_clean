@@ -1,0 +1,48 @@
+version: '3'
+services:
+  hdfs-namenode:
+    image: gelog/hadoop
+    command: hdfs namenode
+    container_name: hdfs-namenode
+    hostname: hdfs-namenode
+    ports:
+      - "50070:50070"
+      
+  hdfs-datanode1:
+    image: gelog/hadoop
+    command: hdfs datanode
+    container_name: hdfs-datanode1
+    hostname: hdfs-datanode1
+    ports:
+      - "50075:50075"
+    links:
+      - "hdfs-namenode:hdfs-namenode"
+
+  yarn:
+    image: gelog/hadoop
+    command: start-yarn.sh
+    container_name: yarn
+    hostname: yarn
+    ports:
+      - "8088:8088"
+      - "8042:8042"
+    links:
+      - "hdfs-namenode:hdfs-namenode"
+      - "hdfs-datanode1:hdfs-datanode1"
+    volumes:
+      - $HOME/data/hadoop/hdfs:/data
+
+  hdfs-namenode-test:
+    image: gelog/hadoop
+    command: hdfs namenode
+    container_name: hdfs-namenode-test
+    hostname: hdfs-namenode
+    ports:
+      - "50072:50072"
+
+  java-mapreduce-test:
+    image: gelog/hadoop
+    command: sleep infinity
+    container_name: java-mapreduce-test
+    volumes:
+      - D:\ScraperHadoop\YouTubeScraper\mapreduce.jar:/javastuff/mapreduce.jar
